@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Myth80/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2121-intervals-between-identical-elements](https://github.com/Myth80/Leetcode-/tree/master/2121-intervals-between-identical-elements) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Myth80/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [2121-intervals-between-identical-elements](https://github.com/Myth80/Leetcode-/tree/master/2121-intervals-between-identical-elements) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Myth80/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Myth80/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
