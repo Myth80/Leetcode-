@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Myth80/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2121-intervals-between-identical-elements](https://github.com/Myth80/Leetcode-/tree/master/2121-intervals-between-identical-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Myth80/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Myth80/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2121-intervals-between-identical-elements](https://github.com/Myth80/Leetcode-/tree/master/2121-intervals-between-identical-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Myth80/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -88,5 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
