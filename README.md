@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/Myth80/Leetcode-/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
