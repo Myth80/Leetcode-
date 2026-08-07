@@ -1,131 +1,73 @@
+constexpr uint8_t GCD[10][10] = {
+    {},
+    {1},
+    {2, 1},
+    {3, 1, 1},
+    {4, 1, 2, 1},
+    {5, 1, 1, 1, 1},
+    {6, 1, 2, 3, 2, 1},
+    {7, 1, 1, 1, 1, 1, 1},
+    {8, 1, 2, 1, 4, 1, 2, 1},
+    {9, 1, 1, 3, 1, 1, 3, 1, 1},
+};
+
+constexpr int MAXN = 200'001;
+long long rem[MAXN];
+char buf[MAXN + 1];
+
 class Solution {
 public:
-    vector<int> allowedPrimes = {2, 3, 5, 7};
-
-    // optimization
-    int contrib[10][4] = {
-        {0,0,0,0},{0,0,0,0},{1,0,0,0},{0,1,0,0},{2,0,0,0},
-        {0,0,1,0},{1,1,0,0},{0,0,0,1},{3,0,0,0},{0,2,0,0}
-    };
-
-    int maxE2, maxE3, maxE5, maxE7;
-    vector<vector<vector<vector<int>>>> dp; // dp[e2][e3][e5][e7] = min digits
-
-    void buildDP(int E2, int E3, int E5, int E7) {
-        maxE2 = E2; maxE3 = E3; maxE5 = E5; maxE7 = E7;
-        dp.assign(E2 + 1, vector<vector<vector<int>>>(
-                  E3 + 1, vector<vector<int>>(
-                  E5 + 1, vector<int>(E7 + 1, INT_MAX))));
-
-        dp[0][0][0][0] = 0;
-
-        for (int s = 1; s <= E2 + E3 + E5 + E7; s++) {
-            for (int e2 = 0; e2 <= E2; e2++)
-            for (int e3 = 0; e3 <= E3; e3++)
-            for (int e5 = 0; e5 <= E5; e5++)
-            for (int e7 = 0; e7 <= E7; e7++) {
-                if (e2 + e3 + e5 + e7 != s) continue;
-                int best = INT_MAX;
-                for (int d = 2; d <= 9; d++) {
-               
-                    int ne2 = max(0, e2 - contrib[d][0]);
-                    int ne3 = max(0, e3 - contrib[d][1]);
-                    int ne5 = max(0, e5 - contrib[d][2]);
-                    int ne7 = max(0, e7 - contrib[d][3]);
-                    if (dp[ne2][ne3][ne5][ne7] != INT_MAX)
-                        best = min(best, 1 + dp[ne2][ne3][ne5][ne7]);
-                }
-                dp[e2][e3][e5][e7] = best;
-            }
-        }
-    }
-
-    int minDigits(int e2, int e3, int e5, int e7) {
-        return dp[min(e2, maxE2)][min(e3, maxE3)][min(e5, maxE5)][min(e7, maxE7)];
-    }
-
-    void applyDigit(vector<int>& freq, int d) {
-        freq[2] = max(0, freq[2] - contrib[d][0]);
-        freq[3] = max(0, freq[3] - contrib[d][1]);
-        freq[5] = max(0, freq[5] - contrib[d][2]);
-        freq[7] = max(0, freq[7] - contrib[d][3]);
-    }
-
-    bool isReqMet(vector<int>& freq) {
-        for (int p : allowedPrimes) if (freq[p] > 0) return false;
-        return true;
-    }
-
-    string greedyFill(vector<int> freq, int L) {
-        string res;
-        res.reserve(L);
-        for (int pos = 0; pos < L; pos++) {
-            int slotsAfter = L - pos - 1;
-            for (int d = 1; d <= 9; d++) {
-                vector<int> nf = freq;
-                applyDigit(nf, d);
-                if (minDigits(nf[2], nf[3], nf[5], nf[7]) <= slotsAfter) {
-                    freq = nf;
-                    res.push_back('0' + d);
-                    break;
-                }
-                
-            }
-        }
-        return res;
-    }
-
     string smallestNumber(string num, long long t) {
-      
+        long long temp = t >> __builtin_ctzll(t);
+        for (int i : {3, 5, 7})
+            while (temp % i == 0)
+                temp /= i;
 
-        vector<int> freqFull(10, 0);
-        for (int p : allowedPrimes) {
-            while (t % p == 0) { freqFull[p]++; t /= p; }
+        if (temp > 1)
+            return "-1";
+
+        int n = num.length();
+        rem[0] = t, rem[n] = 0;
+        int pos = n - 1;
+        for (int i = 0; i < n; i++) {
+            if (num[i] == '0') {
+                pos = i;
+                break;
+            }
+            long long digit = num[i] - '0';
+            rem[i + 1] = rem[i] / GCD[digit][rem[i] % digit];
         }
-        if (t > 1) return "-1";
+        if (rem[n] == 1)
+            return num;
 
-        buildDP(freqFull[2], freqFull[3], freqFull[5], freqFull[7]);
+        for (int i = pos; i >= 0; i--) {
+            while (++num[i] <= '9') {
+                long long digit = num[i] - '0';
+                auto curr = rem[i] / GCD[digit][rem[i] % digit];
+                int k = 9;
+                for (int j = n - 1; j > i; j--) {
+                    while (curr % k)
+                        k--;
 
-   
-        int len = num.size();
-        bool hasZero = false;
-        for (char c : num) if (c == '0') { hasZero = true; break; }
-
-        if (!hasZero) {
-            vector<int> freq = freqFull;
-            for (char c : num) applyDigit(freq, c - '0');
-            if (isReqMet(freq)) return num;
-        }
-
-        vector<vector<int>> prefixFreq(len + 1);
-        prefixFreq[0] = freqFull;
-        for (int i = 0; i < len; i++) {
-            prefixFreq[i + 1] = prefixFreq[i];
-            if (num[i] != '0') applyDigit(prefixFreq[i + 1], num[i] - '0');
-        }
-
-        int limit = hasZero ? (int)num.find('0') : len - 1;
-
-        
-        string answer;
-        for (int pos = limit; pos >= 0 && answer.empty(); pos--) {
-            vector<int>& freqBefore = prefixFreq[pos];
-            int origDigit = num[pos] - '0';
-            for (int d = origDigit + 1; d <= 9; d++) {
-                vector<int> nf = freqBefore;
-                applyDigit(nf, d);
-                int slotsAfter = len - pos - 1;
-                if (minDigits(nf[2], nf[3], nf[5], nf[7]) <= slotsAfter) {
-                    answer = num.substr(0, pos) + char('0' + d) + greedyFill(nf, slotsAfter);
-                    break;
+                    curr /= k;
+                    num[j] = '0' + k;
                 }
+                if (curr == 1)
+                    return num;
             }
         }
 
-        if (!answer.empty()) return answer;
+        int p = MAXN + 1;
+        for (int i = 9; i > 1; i--) {
+            while (t % i == 0) {
+                buf[--p] = i + '0';
+                t /= i;
+            }
+        }
 
-        int totalNeeded = minDigits(freqFull[2], freqFull[3], freqFull[5], freqFull[7]);
-        int L = max(len + 1, totalNeeded);
-        return greedyFill(freqFull, L);
+        while (MAXN - p < n)
+            buf[--p] = '1';
+
+        return string(buf + p, MAXN + 1 - p);
     }
 };
