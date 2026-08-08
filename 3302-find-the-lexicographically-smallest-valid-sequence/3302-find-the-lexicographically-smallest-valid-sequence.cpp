@@ -1,40 +1,64 @@
 class Solution {
 public:
     vector<int> validSequence(string word1, string word2) {
-        int N = word1.size();
-        int M = word2.size();
-        // Right[i] = max length of word2's suffix that can be formed
-        // using word1[i+1...N-1]
-        int R = M - 1;
-        int C = 0;
-        vector<int> Right(N);
-        for (int i = N - 1; i >= 0; i--) {
-            Right[i] = C;
-            if (R >= 0 && word1[i] == word2[R]) {
-                R--;
-                C++;
+        string s = word1;
+        string t = word2;
+
+        int n = s.size();
+        int m = t.size();
+
+        vector<int> suffix(n + 1, 0);
+
+        int j = m - 1;
+        int matched = 0;
+
+        for (int i = n - 1; i >= 0; --i) {
+            if (j >= 0 && s[i] == t[j]) {
+                matched++;
+                j--;
             }
+
+            suffix[i] = matched;
         }
 
-        vector<int> ans;
-        bool changed = false;
-        int j = 0; // pointer for word2
+        vector<int> ans(m);
 
-        for (int i = 0; i < N && j < M; i++) {
-            if (word1[i] == word2[j]) {
-                ans.push_back(i);
+        int i = 0;
+        j = 0;
+
+        while (i < n && j < m) {
+
+            if (s[i] == t[j]) {
+                ans[j] = i;
                 j++;
-            } else if (!changed && Right[i] >= M - 1 - j) {
-                // Spend our one allowed substitution here
-                ans.push_back(i);
-                j++;
-                changed = true;
+            } else {
+                if (suffix[i + 1] >= m - j - 1) {
+                    ans[j] = i;
+                    j++;
+                    i++;
+                    break;
+                }
             }
+
+            i++;
         }
 
-        if (j == M) {
-            return ans;
+        if (j < m && i == n)
+            return {};
+
+        while (i < n && j < m) {
+
+            if (s[i] == t[j]) {
+                ans[j] = i;
+                j++;
+            }
+
+            i++;
         }
-        return {};
+
+        if (j != m)
+            return {};
+
+        return ans;
     }
 };
