@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Myth80/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Myth80/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2121-intervals-between-identical-elements](https://github.com/Myth80/Leetcode-/tree/master/2121-intervals-between-identical-elements) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Myth80/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Myth80/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Myth80/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Myth80/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Myth80/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Myth80/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Myth80/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Myth80/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Myth80/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Myth80/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Myth80/Leetcode-/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Myth80/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
