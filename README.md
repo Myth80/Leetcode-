@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/Myth80/Leetcode-/tree/master/2121-intervals-between-identical-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Myth80/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Myth80/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Myth80/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Myth80/Leetcode-/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Myth80/Leetcode-/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Myth80/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Myth80/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Myth80/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -140,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Myth80/Leetcode-/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Myth80/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Myth80/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Myth80/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Myth80/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
@@ -249,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Myth80/Leetcode-/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
