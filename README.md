@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Myth80/Leetcode-/tree/master/0175-combine-two-tables) |
 | [1280-students-and-examinations](https://github.com/Myth80/Leetcode-/tree/master/1280-students-and-examinations) |
 ## Number Theory
 |  |
