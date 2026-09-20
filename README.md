@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Myth80/Leetcode-/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Myth80/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Myth80/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Myth80/Leetcode-/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Myth80/Leetcode-/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Myth80/Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Myth80/Leetcode-/tree/master/1140-stone-game-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Myth80/Leetcode-/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
