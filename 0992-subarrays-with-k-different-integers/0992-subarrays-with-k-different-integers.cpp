@@ -1,11 +1,10 @@
 class Solution {
 public:
 
-    int solve(vector<int>&nums , int k){
-        int l=0 , r=0, count=0 , n =nums.size();
-        unordered_map<int,int>freq;
+    int solve(vector<int>&nums,int k){
+        int r=0,l=0,n=nums.size(),count=0;
+        unordered_map<int, int>freq;
         while(r<n){
-            
             freq[nums[r]]++;
             while(freq.size()>k){
                 freq[nums[l]]--;
@@ -14,13 +13,14 @@ public:
                 }
                 l++;
             }
-            count += (r-l+1);
+            count += r-l+1;
             r++;
-            }
-            return count;
+        }
+        return count;
     }
 
+
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-            return solve(nums,k) - solve(nums,k-1);
-        }
+        return solve(nums,k)-solve(nums,k-1);
+    }
 };
