@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Myth80/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Myth80/Leetcode-/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Myth80/Leetcode-/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/Myth80/Leetcode-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Myth80/Leetcode-/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Myth80/Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Myth80/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Myth80/Leetcode-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Myth80/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Myth80/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Myth80/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
