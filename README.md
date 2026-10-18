@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Myth80/Leetcode-/tree/master/0175-combine-two-tables) |
+| [1075-project-employees-i](https://github.com/Myth80/Leetcode-/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/Myth80/Leetcode-/tree/master/1280-students-and-examinations) |
 ## Number Theory
 |  |
