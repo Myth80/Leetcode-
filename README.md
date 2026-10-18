@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Myth80/Leetcode-/tree/master/0175-combine-two-tables) |
 | [1075-project-employees-i](https://github.com/Myth80/Leetcode-/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Myth80/Leetcode-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Myth80/Leetcode-/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/Myth80/Leetcode-/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Myth80/Leetcode-/tree/master/1633-percentage-of-users-attended-a-contest) |
