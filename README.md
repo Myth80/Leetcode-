@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Myth80/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Myth80/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Myth80/Leetcode-/tree/master/0704-binary-search) |
+| [0740-delete-and-earn](https://github.com/Myth80/Leetcode-/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/Myth80/Leetcode-/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Myth80/Leetcode-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Myth80/Leetcode-/tree/master/0877-stone-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/Myth80/Leetcode-/tree/master/0740-delete-and-earn) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Myth80/Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Myth80/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Myth80/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Myth80/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Myth80/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Myth80/Leetcode-/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Myth80/Leetcode-/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Myth80/Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Myth80/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Myth80/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
