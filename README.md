@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Myth80/Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Myth80/Leetcode-/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Myth80/Leetcode-/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Myth80/Leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Myth80/Leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Myth80/Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Myth80/Leetcode-/tree/master/0213-house-robber-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Myth80/Leetcode-/tree/master/0179-largest-number) |
 | [0860-lemonade-change](https://github.com/Myth80/Leetcode-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Myth80/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Myth80/Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Myth80/Leetcode-/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Myth80/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Myth80/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Myth80/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Myth80/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Myth80/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Myth80/Leetcode-/tree/master/0115-distinct-subsequences) |
+| [0179-largest-number](https://github.com/Myth80/Leetcode-/tree/master/0179-largest-number) |
 | [0856-score-of-parentheses](https://github.com/Myth80/Leetcode-/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Myth80/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Myth80/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
