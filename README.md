@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Myth80/Leetcode-/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Myth80/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Myth80/Leetcode-/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/Myth80/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Myth80/Leetcode-/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Myth80/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Myth80/Leetcode-/tree/master/0136-single-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Myth80/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Myth80/Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Myth80/Leetcode-/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Myth80/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Myth80/Leetcode-/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Myth80/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Myth80/Leetcode-/tree/master/0198-house-robber) |
