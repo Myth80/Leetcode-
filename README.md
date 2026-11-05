@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Myth80/Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Myth80/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Myth80/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Myth80/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Myth80/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Myth80/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Myth80/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Myth80/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Myth80/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Myth80/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Myth80/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Myth80/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Myth80/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Myth80/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Myth80/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Myth80/Leetcode-/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Myth80/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Myth80/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Myth80/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/Myth80/Leetcode-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Myth80/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Myth80/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myth80/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Myth80/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
