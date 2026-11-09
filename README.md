@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Myth80/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Myth80/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Myth80/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Myth80/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myth80/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Myth80/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Myth80/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -324,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Myth80/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Myth80/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Myth80/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Myth80/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Myth80/Leetcode-/tree/master/1882-process-tasks-using-servers) |
 ## Game Theory
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Myth80/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Myth80/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Counting
 |  |
