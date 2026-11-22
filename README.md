@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Myth80/Leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Myth80/Leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Myth80/Leetcode-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Myth80/Leetcode-/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Myth80/Leetcode-/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/Myth80/Leetcode-/tree/master/0403-frog-jump) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Myth80/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Myth80/Leetcode-/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Myth80/Leetcode-/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Myth80/Leetcode-/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1260-shift-2d-grid) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Recursion
@@ -303,12 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Myth80/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Myth80/Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Myth80/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Myth80/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
