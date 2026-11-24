@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Myth80/Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Myth80/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Myth80/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Myth80/Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Myth80/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Myth80/Leetcode-/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Myth80/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Myth80/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Myth80/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myth80/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Myth80/Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Myth80/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Myth80/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Myth80/Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Myth80/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Myth80/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Myth80/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Myth80/Leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Myth80/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Myth80/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Myth80/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Myth80/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Myth80/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Myth80/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
