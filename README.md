@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Myth80/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Myth80/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Myth80/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Myth80/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myth80/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Myth80/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Myth80/Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Myth80/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Myth80/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Myth80/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Recursion
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Myth80/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Myth80/Leetcode-/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Myth80/Leetcode-/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Myth80/Leetcode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Myth80/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Myth80/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Myth80/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
