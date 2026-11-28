@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Myth80/Leetcode-/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Myth80/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Myth80/Leetcode-/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Myth80/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Myth80/Leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Myth80/Leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Myth80/Leetcode-/tree/master/0198-house-robber) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Myth80/Leetcode-/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Myth80/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Myth80/Leetcode-/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Myth80/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Myth80/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Myth80/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Myth80/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0856-score-of-parentheses](https://github.com/Myth80/Leetcode-/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Myth80/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Myth80/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
